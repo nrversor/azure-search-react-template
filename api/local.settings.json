@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "SearchApiKey": "03097125077C18172260E41153975439",
+    "SearchServiceName": "azs-playground",
+    "SearchIndexName": "good-books",
+    "SearchFacets": "authors*,language_code"
+  }
+}
